@@ -23,7 +23,7 @@ This project was built using these technologies.
 - CSS
 - BootStrap
 - Particles.js
-- Deployed on Vercel
+- Three.js
 
 ## Features are:
 
