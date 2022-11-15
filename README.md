@@ -42,13 +42,3 @@ using Live server or open in any web browser
 ```
 
 Open with your browser to see the result and change according to your configuration.
-
-### Show your support
-
-📌 Please feel free to contribute to this project with your commits, and share this with your friends if you like this projects.😁 😃
-
-Give a ⭐ if you like this website! Fork it and contribute
-
-# Can I contribute?
-
-Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a PR and I appreciate it.
